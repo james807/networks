@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="1876" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="459" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -265,26 +265,56 @@
         <mxCell id="82a_AhrNkqmRttgPwtjp-107" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Main Router&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="248" width="202.5" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="jJe0wLR6unId7IcCSNrv-1" value="Web Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jJe0wLR6unId7IcCSNrv-1" value="Web Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1641.5" y="580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jJe0wLR6unId7IcCSNrv-2" value="AD DS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jJe0wLR6unId7IcCSNrv-2" value="AD DS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1055" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jJe0wLR6unId7IcCSNrv-3" value="DHCP &amp;amp; DNS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jJe0wLR6unId7IcCSNrv-3" value="DHCP &amp;amp; DNS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1146" y="1118" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jJe0wLR6unId7IcCSNrv-4" value="L3-CLIENT 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jJe0wLR6unId7IcCSNrv-4" value="L3-CLIENT 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1338.75" y="1110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jJe0wLR6unId7IcCSNrv-5" value="L3-CLIENT 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jJe0wLR6unId7IcCSNrv-5" value="L3-CLIENT 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1451.25" y="1110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jJe0wLR6unId7IcCSNrv-6" value="L4-CLIENT 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jJe0wLR6unId7IcCSNrv-6" value="L4-CLIENT 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1492.5" y="771" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="jJe0wLR6unId7IcCSNrv-7" value="L4-CLIENT 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jJe0wLR6unId7IcCSNrv-7" value="L4-CLIENT 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1622.5" y="683" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-1" value="L2-CLIENT1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="1085" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-2" value="L2-CLIENT2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="196" y="1084" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-3" value="L1-CLIENT2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162" y="750" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-4" value="L1-CLIENT1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="750" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-5" value="L1-CLIENT3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="158" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-6" value="L1-CLIENT4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="158" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-7" value="VLAN10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="140" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-8" value="VLAN20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="140" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-9" value="VLAN30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162" y="766" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V9YLT44HrTgCmrXW2-U-10" value="VLAN40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="766" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
